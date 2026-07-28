@@ -2,9 +2,9 @@
 
 ## From Learning Python to Solving Real-World Problems
 
-https://img.shields.io/badge/Python-3.13-blue.svg
-https://img.shields.io/badge/Jupyter-Notebook-orange.svg
-https://img.shields.io/badge/Status-In%2520Progress-brightgreen.svg
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Status](https://img.shields.io/badge/Status-In%2520Progress-brightgreen.svg)
 
 > "You don't become good at programming by reading more code. You become better by writing, breaking, fixing, and understanding it."
 
