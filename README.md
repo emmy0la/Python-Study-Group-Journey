@@ -51,7 +51,7 @@ But every notebook here represents one more step forward.
 
 ---
 
-# About This Repository 📖
+# About This Repository 
 
 This is my personal learning repository for the SmartBizCrux Technologies Python Study Group.
 
@@ -85,7 +85,7 @@ That has been one of the most valuable parts of this journey.
 
 ---
 
-# My Learning Journey 🌱
+# My Learning Journey 
 
 Before this study group, I had already started exploring Python as part of my broader journey into Data Analytics.
 
@@ -118,7 +118,7 @@ The journey continues.
 
 ---
 
-# How I Approach Learning 🧠 
+# How I Approach Learning 
 
 One of the biggest lessons from this experience is that reading code is very different from writing code.
 
@@ -145,7 +145,7 @@ I am learning to see those moments as part of the process.
 
 ---
 
-# Repository Structure 📁
+# Repository Structure 
 
 ```text
 python-study-group-journey/
@@ -184,7 +184,7 @@ python-study-group-journey/
 
 ---
 
-# Lessons and Hands-On Practice 📚
+# Lessons and Hands-On Practice 
 
 ## Lesson 1: Introduction to Python and Jupyter Notebook
 
@@ -505,7 +505,7 @@ Good formatting makes information easier to understand and easier to trust.
 
 ---
 
-# 🏗️ Case Study Project
+# Case Study Project
 
 ## Sales Forecasting Engine
 
@@ -604,7 +604,7 @@ It is about learning how to combine small building blocks to solve larger proble
 
 ---
 
-# Skills I Have Practiced 🎯
+# Skills I Have Practiced 
 
 ### Python Fundamentals
 
@@ -656,7 +656,7 @@ The exercises exposed me to practical scenarios across:
 
 ---
 
-# Tools and Technologies 🛠️
+# Tools and Technologies 
 
 ```text
 Python
@@ -674,7 +674,7 @@ No external Python libraries were required for these foundational exercises.
 
 ---
 
-# What This Journey Has Taught Me 💭
+# What This Journey Has Taught Me 
 
 This journey has reinforced something I already knew from mathematics.
 
@@ -724,7 +724,7 @@ One concept at a time.
 
 ---
 
-# How to Explore This Repository 💻
+# How to Explore This Repository 
 
 You can explore the repository in the order the lessons were completed.
 
@@ -743,7 +743,7 @@ The goal is to understand the thinking behind it.
 
 ---
 
-# Acknowledgments 🙏
+# Acknowledgments 
 
 ## Coach Timothy
 
@@ -779,7 +779,7 @@ Sometimes, seeing how someone else thinks through a problem helps you understand
 
 ---
 
-# Progress Tracker  📈
+# Progress Tracker  
 
 | Area                       | Status         |
 | -------------------------- | -------------- |
@@ -798,7 +798,7 @@ Sometimes, seeing how someone else thinks through a problem helps you understand
 
 ---
 
-# What's Next? 🚀
+# What's Next? 
 
 This repository represents the foundation.
 
@@ -822,7 +822,7 @@ This repository will continue to grow as I do.
 
 ---
 
-# Connect With Me 🤝
+# Connect With Me 
 
 ## Emmanuel Olawumi
 
