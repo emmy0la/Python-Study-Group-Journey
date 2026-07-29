@@ -836,7 +836,7 @@ If you are also learning Python, working in Data Analytics, or interested in pra
 
 [LinkedIn](https://www.linkedin.com/in/emmanuelolawumi/)
 [GitHub](https://github.com/emmy0la)
-[Email](emmyolawumi@gmail.com)
+[Email](mailto:emmyolawumi@gmail.com)
 
 ---
 
