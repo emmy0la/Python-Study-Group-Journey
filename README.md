@@ -834,9 +834,9 @@ I am currently building my skills in Python and Data Analytics, with the goal of
 
 If you are also learning Python, working in Data Analytics, or interested in practical technology projects, feel free to connect with me.
 
-[LinkedIn](YOUR_LINKEDIN_URL)
-[GitHub](YOUR_GITHUB_URL)
-[Email](mailto:emmyolawumi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/emmanuelolawumi/)
+[GitHub](https://github.com/emmy0la)
+[Email](emmyolawumi@gmail.com)
 
 ---
 
