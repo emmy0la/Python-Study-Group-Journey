@@ -1,4 +1,4 @@
-# 🐍 Python Study Group Journey
+# Python Study Group Journey
 
 ## From Learning Python to Solving Real-World Problems
 
